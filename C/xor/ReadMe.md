@@ -1,5 +1,6 @@
 
 # 使用的皮肤库Skinsharp
+编译后的文件在exe文件夹下
 ```
 CFile	f(filepath,CFile::modeRead);  
 CString		newfile = filepath;  
