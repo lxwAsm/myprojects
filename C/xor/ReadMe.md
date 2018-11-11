@@ -22,4 +22,4 @@ fenc.Close();
 MessageBox(newfile+_T(" encryption success!"));  
 	
 ```  
-![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
+![Alt text](https://raw.githubusercontent.com/lxwAsm/myprojects/master/2.png)
