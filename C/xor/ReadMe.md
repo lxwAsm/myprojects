@@ -1,4 +1,5 @@
 
+# 使用的皮肤库Skinsharp
 ```
 CFile	f(filepath,CFile::modeRead);  
 CString		newfile = filepath;  
